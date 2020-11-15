@@ -6136,6 +6136,10 @@ button.bg-danger:focus {
   background-color: #f8f9fa !important;
 }
 
+.contact-background {
+  background-color: white !important;
+}
+
 a.bg-light:hover, a.bg-light:focus,
 button.bg-light:hover,
 button.bg-light:focus {
@@ -7718,6 +7722,7 @@ button.bg-dark:focus {
 
 .pt-4,
 .py-4 {
+  width: 100%;
   padding-top: 1.5rem !important;
 }
 
